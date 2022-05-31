@@ -1,1 +1,3 @@
-# Oasis-infobyte-Task-1-Unit-converter
+# Oasis-infobyte
+Task-1
+Unit-converter
